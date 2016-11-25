@@ -1,6 +1,6 @@
 # jpa to btu but colorless
 
-import binascii, os, struct, sys
+import os, struct, sys
 
 def convertTEX(offset, data, length, datasize):
     offset+=0x20
